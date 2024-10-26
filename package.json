@@ -1,0 +1,14 @@
+{
+  "name": "gpt-education",
+  "version": "1.0.0",
+  "description": "BobaLab 2024 Educational GPT Scripts to Run on Qualtrics",
+  "main": "index.js",
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
